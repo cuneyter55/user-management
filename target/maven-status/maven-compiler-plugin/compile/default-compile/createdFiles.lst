@@ -1,0 +1,6 @@
+com\example\repository\UserRepository.class
+com\example\config\HibernateConfig.class
+com\example\service\UserService.class
+com\example\model\User.class
+com\example\UserManagementApplication.class
+com\example\controller\UserController.class
